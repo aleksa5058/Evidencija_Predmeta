@@ -1,0 +1,17 @@
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\bazaPodaci.mdf
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\bazaPodaci_log.ldf
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\x64\pdfium.dll
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\Evidencija Predmeta.exe.config
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\Evidencija Predmeta.exe
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\Evidencija Predmeta.pdb
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\PdfiumViewer.dll
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\PdfiumViewer.xml
+D:\Aleksa\ZRad\Evidencija Predmeta\bin\Debug\nl\PdfiumViewer.resources.dll
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija_Predmeta.Login.resources
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija_Predmeta.Pretraga.resources
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija_Predmeta.Properties.Resources.resources
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija_Predmeta.Unos.resources
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija Predmeta.csproj.GenerateResource.cache
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija Predmeta.csproj.CoreCompileInputs.cache
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija Predmeta.exe
+D:\Aleksa\ZRad\Evidencija Predmeta\obj\Debug\Evidencija Predmeta.pdb
